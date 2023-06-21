@@ -1,0 +1,11 @@
+#best {
+    background-image: radial-gradient(#212121 2%, transparent 2%),
+    radial-gradient(#fafafa 2%, transparent 2%);
+background-color: blue;
+background-position: 0 0, 50px 50px;
+background-size: 100px 100px;
+}
+
+#back {
+    background-color: black;
+}
